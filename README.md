@@ -6,4 +6,4 @@
 * Download latest available [WinPcap source code](https://www.winpcap.org/devel.htm) and extract folder winpcap to the repo root
 * Open Emscripten Command Prompt and run build.cmd
 
-Done! You can now open build/bpf_test.html page or run some of the example unit tests (TODO).
+Done! You can now open build/bpf-test.html page or run some of the example unit tests (TODO).
